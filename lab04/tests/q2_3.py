@@ -1,0 +1,10 @@
+test = {   'name': 'q2_3',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(count_for_names, pd.Series) \nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> pd.api.types.is_numeric_dtype(count_for_names)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sum(count_for_names) == 9019830\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(count_for_names) == 9128\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

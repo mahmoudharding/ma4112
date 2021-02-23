@@ -1,0 +1,10 @@
+test = {   'name': 'q2_4',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(nc_female_name_count, pd.Series) \nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(nc_female_name_count) == 3708\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sum(nc_female_name_count) == 858330\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> nc_female_name_count[0] == 11439\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
