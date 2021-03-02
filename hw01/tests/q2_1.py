@@ -1,0 +1,10 @@
+test = {   'name': 'q2_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> sorted(list(bike["holiday"].unique())) == [\'no\', \'yes\']\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sorted(list(bike["weekday"].unique())) == [\'Fri\', \'Mon\', \'Sat\', \'Sun\', \'Thu\', \'Tue\', \'Wed\']\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sorted(list(bike["workingday"].unique())) == [\'no\', \'yes\']\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> sorted(list(bike["weathersit"].unique())) == [\'Clear\', \'Heavy\', \'Light\', \'Mist\']\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
