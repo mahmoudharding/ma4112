@@ -1,0 +1,10 @@
+test = {   'name': 'q1_1',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': '>>> sum(mean_x) == 36.0\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> round(sum(mean_y)) == 30\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> round(sum(sd_x)) == 13\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> round(sum(sd_y)) == 8\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
